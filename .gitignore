@@ -1,0 +1,11 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+WindowsNoEditor
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
